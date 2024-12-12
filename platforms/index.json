@@ -1,5 +1,5 @@
 {
-  "baseUri": "https://raw.githubusercontent.com/magneticchen/Daijishou/main/platforms/",
+  "baseUri": "https://raw.githubusercontent.com/nitanmarcel/Daijishou/main/platforms/",
   "platformList": [
     {
       "filename": "3DO.json",
@@ -769,7 +769,7 @@
       "platformName": "Windows",
       "platformShortname": "windows",
       "platformUniqueId": "windows",
-      "revisionNumber": 2
+      "revisionNumber": 3
     },
     {
       "filename": "WonderSwan.json",
